@@ -108,8 +108,8 @@ For Excel analysis only:
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourportfolio.com) · [Email](mailto:you@email.com)
+**Soumya Ranjan Muduli**
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourportfolio.com) · [Email](mailto:soumyaranjanliku16@email.com)
 
 ---
 
